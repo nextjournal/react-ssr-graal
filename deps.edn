@@ -1,0 +1,5 @@
+{:paths ["src"]
+ :deps {org.clojure/clojurescript {:mvn/version "1.10.439"}
+        com.cognitect/transit-clj {:mvn/version "0.8.309"}
+        com.cognitect/transit-cljs {:mvn/version "0.8.256"}
+        reagent {:mvn/version "0.8.1"}}}
